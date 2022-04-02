@@ -1,0 +1,29 @@
+button{
+    border-color:aliceblue;
+    border-style: double;
+    cursor: pointer;
+    color:darksalmon;
+    width: 85px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color:lightcoral;
+}
+body{
+    background-color: hotpink;
+}
+h1{
+    color:whitesmoke;
+    text-decoration: underline;
+}
+.logo{
+    width: 400px;
+	margin-top: 30px;
+    border-color:white;
+    border-style: solid;
+}
+#chatroomimage{
+    width: 400px;
+    height: 400px;
+}
